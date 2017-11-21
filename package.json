@@ -1,0 +1,22 @@
+{
+  "name": "lambda-ci",
+  "version": "1.0.0",
+  "description": "AWS Lambda CI/CD Pipeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ryangoodrich@github.com/ryangoodrich/lambda-ci.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryangoodrich/lambda-ci/issues"
+  },
+  "homepage": "https://github.com/ryangoodrich/lambda-ci#readme",
+  "dependencies": {
+    "time": "^0.12.0"
+  }
+}
